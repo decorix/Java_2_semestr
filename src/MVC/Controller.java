@@ -1,2 +1,5 @@
-package MVC;public class Controller {
+package MVC;
+
+public class Controller {
+
 }

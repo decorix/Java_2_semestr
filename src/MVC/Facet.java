@@ -38,7 +38,7 @@ public class Facet { //грань
         }
     }
 
-    public void ortDraw(Graphics g){
+    public void ortDraw(Graphics g) {
         Path2D p = new Path2D.Double();
         p.moveTo(vertex[0].getX(), vertex[0].getY());
         p.lineTo(vertex[1].getX(), vertex[1].getY());

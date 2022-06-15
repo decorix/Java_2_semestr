@@ -1,2 +1,4 @@
-package MVC;public class MyPanel {
+package MVC;
+
+public class MyPanel {
 }
