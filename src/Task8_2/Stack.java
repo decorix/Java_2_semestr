@@ -1,5 +1,6 @@
 package Task8_2;
 
+//Непрерывная реализация стека целых чисел.
 class Stack{
     private static final int DEFSIZE = 16;
     private char[] array;
